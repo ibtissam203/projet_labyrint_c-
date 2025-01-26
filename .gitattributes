@@ -6,3 +6,5 @@
 *.css text eol=lf
 *.html text eol=lf
 *.json text eol=lf
+# Ignorer les fichiers de Visual Studio
+.vs/
