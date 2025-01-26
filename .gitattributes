@@ -1,0 +1,8 @@
+# Toujours utiliser LF pour les fichiers texte
+* text=auto
+
+# Forcer LF pour certains types de fichiers
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.json text eol=lf
